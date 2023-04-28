@@ -1,0 +1,44 @@
+.tea {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.tea h3 {
+  margin: 0 0 0.25rem 0;
+}
+
+.description {
+  font-style: italic;
+}
+
+.price {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  font-weight: bold;
+  color: rgb(113, 12, 12);
+  font-size: 1.25rem;
+}
+.green{
+  height:15px;
+  width:15px;
+  background-color: green;
+  border-radius: 50%;
+}
+.red{
+  height: 15px;
+  width: 15px;
+  background-color: red;
+  border-radius: 50%;;
+}
+.img{
+  height:100px;
+  width:100px;
+}
+.basics{
+  display: flex;
+}
+.basics img {
+  margin-right: 10px;
+}
